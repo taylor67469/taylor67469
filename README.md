@@ -5,7 +5,7 @@
 - 📫 How to reach me... 
 - Phone: 847-757-8690 
 - Email: taylor67469@yahoo.com 
-- LinkedIn: https://www.linkedin.com/in/zachary-taylor-22487a119/ 
+- LinkedIn: https://www.linkedin.com/in/zachary-t-22487a119/
 - My portfolio: https://taylor67469.github.io/portfolio/
 
 <!---
